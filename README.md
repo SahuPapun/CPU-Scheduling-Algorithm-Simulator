@@ -86,3 +86,4 @@ Average Turnaround Time = 13.40
 - **SJF** gives the best average waiting time theoretically, but needs burst times known in advance
 - **Round Robin** prevents starvation but quantum size is critical — too small causes excessive context switches
 - **Priority Scheduling** can starve low-priority processes; real OSes use aging to fix this
+- <3
